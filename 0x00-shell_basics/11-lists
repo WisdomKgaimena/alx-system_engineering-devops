@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la .:
+list_files "$boot_dir"
